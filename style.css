@@ -20,3 +20,18 @@ main{
     border-radius: 20px;
     box-shadow: 0px 0px 10px 10px #0000002f;
 }
+
+.btn{
+    background-color: #FF2100;
+    color: #FFFFe5;
+    box-shadow: 5px 2px 10px 1px #00000041;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-color: #d11d01;
+}
