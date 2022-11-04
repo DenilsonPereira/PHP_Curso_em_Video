@@ -30,6 +30,7 @@ main{
     padding: 5px;
     cursor: pointer;
     text-decoration: none;
+    margin-top: 5px;
 }
 
 .btn:hover{
